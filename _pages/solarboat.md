@@ -1,3 +1,9 @@
+---
+title: "Solar Boat Team"
+layout: single
+permalink: /solarboat/
+---
+
 # Engineer at the TU Delft Solar Boat Team
 _short description here_
 

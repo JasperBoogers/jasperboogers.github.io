@@ -1,3 +1,9 @@
+---
+title: "Master Education"
+layout: single
+permalink: /master/
+---
+
 # MSc. Mechanical Engineering at Delft University of Technology
 _short description here_
 
