@@ -3,10 +3,12 @@
 ## Engineer at TU Delft Solar Boat Team
 _short description here_
 [read more](pages/solarboat.md)
+
 ---
 
 ## Intern at Lely Technologies
 _short description here_
+
 ---
 
 ## Teaching Assistant at Delft University of Technology
@@ -15,6 +17,7 @@ _short description here_
 
 ## Study Information Coordinator
 _short description here_
+
 ---
 
 # Education
