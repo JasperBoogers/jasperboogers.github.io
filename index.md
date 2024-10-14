@@ -2,13 +2,16 @@
 
 ## Engineer at TU Delft Solar Boat Team
 📅
+
 _short description here_
+
 [read more](pages/solarboat.md)
 
 ---
 
 ## Intern at Lely Technologies
 📅
+
 _short description here_
 
 ---
@@ -24,27 +27,36 @@ Gained skills include teaching, CNC machining, presenting to groups and providin
 
 ## Study Information Coordinator
 📅
+
 _short description here_
 
 ---
+
+# Skills and Interests
+
+
 
 # Education
 
 ## MSc. in Mechanical Engineering
 📅
+
 _short description here_
+
 [read more](pages/master.md)
 
 ---
 
 ## BSc. in Mechanical Engineering
 📅
+
 _short description here_
 
 # Extracurricular
 
 ## Regatta Committee Member
 📅
+
 - WinterWedstrijden
 - Westelijke Regatta
 
