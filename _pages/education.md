@@ -1,7 +1,7 @@
 ---
-title: "Master Education"
+title: "Education"
 layout: single
-permalink: /master/
+permalink: /education/
 ---
 
 # MSc. Mechanical Engineering at Delft University of Technology

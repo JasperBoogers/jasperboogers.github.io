@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Experience"
-    url: /solarboat/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Projects"
+    url: /projects/
   - title: "Education"
-    url: /master/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /education/
+  - title: "Experience"
+    url: /experience/
   # - title: "Sitemap"
   #   url: /sitemap/

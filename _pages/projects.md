@@ -1,7 +1,7 @@
 ---
-title: "Solar Boat Team"
+title: "Projects"
 layout: single
-permalink: /solarboat/
+permalink: /projects/
 ---
 
 # Engineer at the TU Delft Solar Boat Team
@@ -21,3 +21,5 @@ We sailed in Monaco, becoming the first foiling hydrogen powered boat
 ### Learning Experiences
 
 [Learn more about the current team](https://hydromotionteam.nl)
+
+# Intern at Lely Technologies
