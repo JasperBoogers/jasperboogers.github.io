@@ -1,51 +1,39 @@
-# Portfolio
+# Experience
 
-## About
+## Engineer at TU Delft Solar Boat Team
+_short description here_
+[read more](pages/solarboat.md)
+---
 
-## Experience
+## Intern at Lely Technologies
+_short description here_
+---
 
-### Engineer at TU Delft Solar Boat Team
-[view more](/pages/solarboat)
+## Teaching Assistant at Delft University of Technology
+_short description here_
+---
+
+## Study Information Coordinator
+_short description here_
+---
+
+# Education
+
+## MSc. in Mechanical Engineering
+_short description here_
+[read more](pages/master.md)
 
 ---
 
-### Intern at Lely Technologies
+## BSc. in Mechanical Engineering
+_short description here_
 
----
+# Extracurricular
 
-### Teaching Assistant at Delft University of Technology
-
----
-
-### Study Information Coordinator
-
----
-
-## Education
-
-### Master in Mechanical Engineering
-
-**Course Overview**
-- Control Systems Lab
-- Intelligent Control Systems
-- Multibody Dynamics
-- Engineering Optimization
-
-
-**Master Thesis**
-
----
-
-### Bachelor Mechanical Engineering
-- Bachelor Thesis
-- Minor in Computer Science
-
-## Extracurricular
-
-### Regatta Committee Member
+## Regatta Committee Member
 - WinterWedstrijden
 - Westelijke Regatta
 
 ---
 
-### Boat Transport Committee Member
+## Boat Transport Committee Member
